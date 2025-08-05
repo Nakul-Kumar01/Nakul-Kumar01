@@ -13,6 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [https://nakulkumar.vercel.app/](https://nakulkumar.vercel.app/)
 
+- 🔗 Linkdin Profile: https://www.linkedin.com/in/nakulkumar126/
+
 - 📫 How to reach me **parmarnakul277@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
